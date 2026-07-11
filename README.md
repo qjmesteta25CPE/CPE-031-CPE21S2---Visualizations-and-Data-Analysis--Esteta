@@ -52,8 +52,3 @@ Repository for CPE 031-Visualizations and Data Analysis projects
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= qjmesteta25CPE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= qjmesteta25CPE&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= qjmesteta25CPE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
