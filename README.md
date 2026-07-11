@@ -23,7 +23,7 @@ Repository for CPE 031-Visualizations and Data Analysis projects
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+
 
 ###
 📖 Currently Studying  
@@ -32,7 +32,7 @@ Data Analysis using Python
 Object-Oriented Programming  
 Algorithms  
 Computer Engineering Fundamentals  
-
+# Tools and language 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
