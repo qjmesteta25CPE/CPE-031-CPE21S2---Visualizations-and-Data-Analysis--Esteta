@@ -26,12 +26,12 @@ Repository for CPE 031-Visualizations and Data Analysis projects
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-📖 Currently Studying
-Data Visualization
-Data Analysis using Python
-Object-Oriented Programming
-Algorithms
-Computer Engineering Fundamentals
+📖 Currently Studying  
+Data Visualization  
+Data Analysis using Python  
+Object-Oriented Programming  
+Algorithms  
+Computer Engineering Fundamentals  
 
 <div align="left">
   <img width="12" />
